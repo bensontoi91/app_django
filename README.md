@@ -1,4 +1,4 @@
-# app_django
+# app_django train 
 Django train project
 
 
